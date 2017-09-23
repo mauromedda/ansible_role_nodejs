@@ -5,7 +5,7 @@ Install NodeJS on the RHEL/CentOS
 
 ## Requirements
 
-- EPEL repository. You can simply install the EPEL using the role [mauromedda.ansible_role_epel](https://galaxy.ansible.com/mauromedda/nodejs/)
+- EPEL repository. You can simply install the EPEL using the role [mauromedda.ansible_role_epel](https://galaxy.ansible.com/mauromedda/ansible_role_epel/)
 
 
 ## Role Variables
